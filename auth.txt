@@ -1,0 +1,5 @@
+http://localhost/mnagy/e_learning/public/std-login    primary  1234546 // for level
+
+http://localhost/mnagy/e_learning/public/std-login    class 1234546 // for class
+
+http://localhost/mnagy/e_learning/public/sys-login    owner@gmail.com   owner@2020
